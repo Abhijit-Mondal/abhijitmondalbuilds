@@ -1,0 +1,23 @@
+{
+  "name": "abhijitmondalbuilds",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhijit-Mondal/abhijitmondalbuilds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhijit-Mondal/abhijitmondalbuilds/issues"
+  },
+  "homepage": "https://github.com/Abhijit-Mondal/abhijitmondalbuilds#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
